@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to React, Tailwind CSS. JavaScript  
   
 
-- ⚡ Fun fact: Funny How!!!!!!!!!!!!!!!!!!  
+- ⚡ Fun fact: Funny How!  
   
 
 <br/>  
