@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://i.ibb.co/B3cWbFf/Blue-Geometric-Technology-Linked-In-Banner.gif]" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/B3cWbFf/Blue-Geometric-Technology-Linked-In-Banner.gif" align="center" style="width: 100%" />
 </div>  
   
 
