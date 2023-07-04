@@ -7,7 +7,7 @@
 ### <div align="center">I am MD Forkan. I am 23 years old Self-taught Full-Stack developer from Bangladesh.🚀</div>  
   
 
-- 🌱 I’m currently learning Material UI & NoSQL  
+- 🌱 I’m currently learning PHP & MySQL  
   
 
 - ❓ Ask me about anything related to React, Tailwind CSS. JavaScript  
